@@ -1,6 +1,11 @@
 # newsApp
 
-This app was developed as part of the CSCI 571 Web Technologies course
+This app was developed as part of the CSCI 571 Web Technologies course. It entails developing a full fledged web application with back end and front end and api calls too.
+
+Technologies used:
+Front end - React Bootstrap
+Back end - Node.js
+APIs implemented - Comment.io API, Microsoft Bing Search API
 
 Detailed description for the app can be found at: 
 
